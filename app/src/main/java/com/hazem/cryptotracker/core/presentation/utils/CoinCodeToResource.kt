@@ -1,4 +1,4 @@
-package com.hazem.cryptotracker.utils
+package com.hazem.cryptotracker.core.presentation.utils
 
 import com.hazem.cryptotracker.R
 

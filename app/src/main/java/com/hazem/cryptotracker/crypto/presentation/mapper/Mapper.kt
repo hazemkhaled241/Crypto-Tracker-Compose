@@ -4,7 +4,7 @@ import com.hazem.cryptotracker.crypto.domain.Coin
 import com.hazem.cryptotracker.crypto.presentation.coin_list.model.CoinUi
 import com.hazem.cryptotracker.crypto.presentation.coin_list.model.DisplayableNumber
 import com.hazem.cryptotracker.crypto.presentation.mapper.Mapper.toDisplayedNumber
-import com.hazem.cryptotracker.utils.getDrawableIdForCoin
+import com.hazem.cryptotracker.core.presentation.utils.getDrawableIdForCoin
 import java.text.NumberFormat
 import java.util.Locale
 

@@ -1,4 +1,4 @@
-package com.hazem.cryptotracker.utils
+package com.hazem.cryptotracker.core.domain.utils
 
 typealias DomainError = Error
 
